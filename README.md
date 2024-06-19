@@ -1,4 +1,4 @@
-# -US-TaS: Taylor Slough/Panhandle
+# US-TaS: Taylor Slough/Panhandle
 Network Affiliations: 	AmeriFlux, LTER
 
 ## Tower_team:
