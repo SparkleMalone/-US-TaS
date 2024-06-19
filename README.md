@@ -32,7 +32,7 @@ Data Use Policy:	AmeriFlux CC-BY-4.0 Policy1
 
 ## Description: 	
  	
-This tower is located in the Florida Everglades, a unique community of stunted mangroves which receive seasonally driven freshwater inputs and wind-driven estuarine inputs
+This tower is located in the Florida Everglades, a unique community of stunted mangroves which receive seasonally driven freshwater inputs and wind-driven estuarine inputs.
 
 URL: 	[US-TaS: Taylor Slough/Panhandle](https://ameriflux.lbl.gov/sites/siteinfo/US-TaS#overview)
 
