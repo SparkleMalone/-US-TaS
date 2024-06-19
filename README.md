@@ -3,7 +3,9 @@ Network Affiliations: 	AmeriFlux, LTER
 
 ## Tower_team:
 PI: 	Sparkle Malone sparkle.malone@yale.edu - Yale University
+
 PI: 	Tiffany Troxler troxlert@fiu.edu - Florida International University
+
 AncContact: 	David Reed david.edwin.reed@gmail.com - Yale University
 
 
