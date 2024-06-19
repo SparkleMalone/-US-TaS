@@ -1,13 +1,21 @@
 # US-TaS: Taylor Slough/Panhandle
 Network Affiliations: 	AmeriFlux, LTER
 
-## Tower_team:
+## Tower Team:
 PI: 	Sparkle Malone sparkle.malone@yale.edu - Yale University
 
 PI: 	Tiffany Troxler troxlert@fiu.edu - Florida International University
 
 AncContact: 	David Reed david.edwin.reed@gmail.com - Yale University
 
+
+## Site Description: 	
+ 	
+This tower is located in the Florida Everglades, a unique community of stunted mangroves which receive seasonally driven freshwater inputs and wind-driven estuarine inputs.
+
+URL: 	[US-TaS: Taylor Slough/Panhandle](https://ameriflux.lbl.gov/sites/siteinfo/US-TaS#overview)
+
+Research Topics: 	Nutrient dynamics; Salinity gradient; Disturbance ecology
 
 ## Characteristics
 Lat, Long: 	25.1908, -80.6391
@@ -30,11 +38,4 @@ Years Data Available:	AmeriFlux BASE 2016 - 2023
 
 Data Use Policy:	AmeriFlux CC-BY-4.0 Policy1
 
-## Description: 	
- 	
-This tower is located in the Florida Everglades, a unique community of stunted mangroves which receive seasonally driven freshwater inputs and wind-driven estuarine inputs.
-
-URL: 	[US-TaS: Taylor Slough/Panhandle](https://ameriflux.lbl.gov/sites/siteinfo/US-TaS#overview)
-
-Research Topics: 	Nutrient dynamics; Salinity gradient; Disturbance ecology
 Acknowledgment: 	Acknowledge LTER, Florida International University
